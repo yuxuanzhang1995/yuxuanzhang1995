@@ -1,5 +1,2 @@
-- 👋 Hi, I’m @yuxuanzhang1995
-- 👀 I’m interested in natural sciences, arts and travelling
-- 🌱 I’m currently learning piano
-- 🧡 I’m looking to collaborate on quantum information/algorithms
-- 📫 How to reach me yuxuanzhang@utexas.edu
+ Ph.D. candidate at UT Austin. I'm lucky to be advised by Andrew C. Potter and co-advised by Scott Aaronson and Shyam Shankar.
+ Fields of interest: quantum information; NISQ algorithm development; quantum hardware-oriented designs;
